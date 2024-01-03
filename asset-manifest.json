@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fraserrr/hnuwb.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Fraserrr/hnuwb.git/static/js/main.16bb6252.js",
+    "static/js/787.de64181c.chunk.js": "/Fraserrr/hnuwb.git/static/js/787.de64181c.chunk.js",
+    "static/media/home1.jpg": "/Fraserrr/hnuwb.git/static/media/home1.026a2daf0f2ea6dc2660.jpg",
+    "static/media/hnuflag.jpg": "/Fraserrr/hnuwb.git/static/media/hnuflag.d1d115289c8252334244.jpg",
+    "static/media/mixtool.jpg": "/Fraserrr/hnuwb.git/static/media/mixtool.50c07271bf1cc3215b41.jpg",
+    "static/media/card1.jpg": "/Fraserrr/hnuwb.git/static/media/card1.1c7fc79df9f0b7c7855c.jpg",
+    "static/media/search1.jpg": "/Fraserrr/hnuwb.git/static/media/search1.7ffdb145eecf59b186f2.jpg",
+    "static/media/search3.jpg": "/Fraserrr/hnuwb.git/static/media/search3.f6ce77e6d192aa18fcaa.jpg",
+    "static/media/search2.jpg": "/Fraserrr/hnuwb.git/static/media/search2.cdbad050bbd458487448.jpg",
+    "index.html": "/Fraserrr/hnuwb.git/index.html",
+    "main.e6c13ad2.css.map": "/Fraserrr/hnuwb.git/static/css/main.e6c13ad2.css.map",
+    "main.16bb6252.js.map": "/Fraserrr/hnuwb.git/static/js/main.16bb6252.js.map",
+    "787.de64181c.chunk.js.map": "/Fraserrr/hnuwb.git/static/js/787.de64181c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.16bb6252.js"
+  ]
+}
